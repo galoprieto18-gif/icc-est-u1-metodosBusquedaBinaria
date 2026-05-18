@@ -20,7 +20,7 @@ public class BusquedaBinaria {
         }
     }
 
-    public int findByName(Product [] products, String nombre){
+    public int findByName (Product [] products, String nombre){
         // definamos bajo & alto 
         int bajo = 0;
         int alto = products.length - 1;
@@ -37,8 +37,9 @@ public class BusquedaBinaria {
             } else{
                 alto = central - 1 ;
             }
-    return -1;
+        return -1;
         }
+    }
 
         // definamos bajo & alto 
         // comparemos con la clave 
@@ -48,7 +49,4 @@ public class BusquedaBinaria {
 
 
     }
-    
 
-    
-}
