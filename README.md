@@ -1,18 +1,15 @@
-## Getting Started
+## UNIVERSIDAD POLITECNICA SALESIANA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## MÉTODOS BÚSQUEDA BINARIA
+## ESTUDIANTE:
+## Galo Prieto 
 
-## Folder Structure
+## Método de búsqueda binaria con bubbleSort Avz
 
-The workspace contains two folders by default, where:
+## Fecha: 2026-05-19
+## Descripción:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este programa contiene un método de ordenamiento avanzado
+(BubbleSort Avanzado) para ordenar el arreglo de las personas por edad, y a su vez se implementa el algoritmo de búsqueda binaria para encontrar la edad de la persona con 18 años dentro del arreglo. 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

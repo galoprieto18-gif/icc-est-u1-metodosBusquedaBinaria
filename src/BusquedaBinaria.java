@@ -37,8 +37,8 @@ public class BusquedaBinaria {
             } else{
                 alto = central - 1 ;
             }
-        return -1;
         }
+        return -1;
     }
 
         // definamos bajo & alto 
